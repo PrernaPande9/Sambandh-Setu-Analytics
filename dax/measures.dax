@@ -1,0 +1,21 @@
+// =====================================================================
+// Sambandh Setu: DAX measures (all live in the _Measures table)
+// TODO: Paste the real formulas from Power BI. To export them:
+//   Power BI Desktop → External Tools → Tabular Editor → select the
+//   _Measures table → copy each expression. Or use DAX Studio.
+// =====================================================================
+
+// ---- KPI cards ----
+// Total_Users =
+// Active_Connections =
+// Mutual_Readiness_Rate =
+// Family_Involvement_Rate =
+// Total_Events =
+
+// ---- Journey stage analysis ----
+// Stage_Entries =
+// Stage_DropOff_Rate =
+// Avg_Events_Per_Connection =
+
+// ---- Discussion analysis ----
+// Topic_Friction_Rate =
